@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+background-image: linear-gradient(to right top, #ffffff);
+  min-height: 100vh;
+  background-repeat: no-repeat;
+}
+
